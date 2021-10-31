@@ -1,5 +1,5 @@
-# `BurritoSpigot`
-BurritoSpigot is a fork of TacoSpigot 1.8.9 that offers several enhancements to performance as well as bug fixes. while offer extra APIs and support for plugins
+# `EnchiladaSpigot`
+EnchiladaSpigot is BurritoSpigot but enchiladas
 
 Supports 300 Players @ 20 TPS (Given all your plugins are programmed well)
 
@@ -12,7 +12,7 @@ Supports 300 Players @ 20 TPS (Given all your plugins are programmed well)
 * [essentialsx](https://essentialsx.net/downloads.html) a mix of common commands
 
 ## Download
-[Download BurritoSpigot.jar](https://github.com/CobbleSword/BurritoSpigot/releases/download/v1.0/BurritoSpigot.jar)
+[Download BurritoSpigot.jar](../../releases/download/latest/BurritoSpigot.jar)
 
 ## How to modify knockback
 Edit the `KnockbackSpigot.json` then restart the server
